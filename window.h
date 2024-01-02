@@ -1,0 +1,55 @@
+#pragma once
+
+#define SRI_ICON 101
+
+#define POINT_SIZE 15
+#define IDC_LISTBOX 11
+#define IDC_STATIC_ICON 17
+#define IDC_STATIC_PROJECT 18
+#define IDC_STATIC_COMPANY 19
+#define IDC_STATIC_DEVELOP 22
+#define WAVE_LEVEL_Y_MULTIPLE 50
+#define NUM_POINTS 3000
+#define SRI_TIMER 201
+#define TIME_INTERVAL_IN_MS 1 //setting default 1 milli second 
+#define IDD_DIALOG  109
+#define IDD_DIALOG_REGISTER 771
+#define IDD_DIALOG_ABOUT 772
+#define ID_REGISTER 67
+#define IDS_CLOSE 68
+#define ID_REGISTER_USER 107
+#define ID_RED 209
+#define ID_YELLOW 210
+#define ID_GREEN 211
+#define ID_BLUE 212
+#define ID_ORANGE 213
+#define ID_MAGENTA 214
+#define ID_CYAN 215
+#define ID_WHITE 216
+#define ID_PINK 217
+#define ID_VOILET 218
+#define ID_ABOUT 219
+#define ID_INCPOINTS 300
+#define ID_DECPOINTS 301
+#define ID_INCWAVE 302
+#define ID_DECWAVE 303
+#define ID_INCAMP  304
+#define ID_DECAMP  305
+#define ID_INCFREQ 306
+#define ID_DECFREQ 307
+#define ID_REWAVE 308
+#define ID_WAVE_GROUP 309
+#define ID_NAME 987
+#define IDC_EDIT_FIRST_NAME 509
+#define IDC_STATIC_FIRST_NAME 1008
+#define IDC_STATIC_SURNAME 1009
+#define IDC_EDIT_SURNAME 609
+#define ID_EXIT 888
+#define IDC_STATIC_TITLE 1009
+#define ID_VOLUME_OFF 3100
+#define ID_VOLUME_ON 3111
+#define ID_VOLUME_GROUP 3232
+#define ID_EXPORT_LOGS  654
+#define IDC_LISTBOX_AUDIO 1678
+#define ID_AUDIO_LOG 741
+#define IDC_STATIC_GUIDED 1836
