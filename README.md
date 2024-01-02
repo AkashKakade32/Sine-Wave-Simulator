@@ -6,7 +6,7 @@
   application.
 •	This application is made using Win32 API and SAPI (Speech API)
 
-## The User can change the following properties of the wave:
+The User can change the following properties of the wave:
 •	Amplitude
 •	Number of Points
 •	Number of waves
